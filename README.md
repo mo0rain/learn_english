@@ -20,6 +20,22 @@
 
 
 
+# test
+
+```
+C:\Windows\SysWOW64\curl.exe
+
+E:\tools\Git\mingw64\libexec\git-core\git-remote-https.exe
+
+
+proxifier添加这两项
+
+测试
 curl https://www.google.com.hk/
+```
+
+
+
+
 
 
