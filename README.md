@@ -13,7 +13,7 @@
 锻炼一项技能，无外乎输入知识和输入检测两种方式
 
 
-# PS
+# Ps
 1. 材料来自于经济学人、Chinadaily以及各种英文报
 2. 使用Google机翻
 3. 不定时更新项目
@@ -22,8 +22,7 @@
 
 
 
-
-# test
+# Test
 
 ```
 C:\Windows\SysWOW64\curl.exe
@@ -35,6 +34,13 @@ proxifier添加这两项
 
 测试
 curl https://www.google.com.hk/
+
+
+
+sublime text查找中文字符
+[\x{4e00}-\x{9fa5}]
+
+
 ```
 
 
