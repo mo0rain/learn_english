@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "1.md"
               }
             }
           }
@@ -111,10 +110,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4ee268aa4817c670",
+  "active": "8941febea91e9c0d",
   "lastOpenFiles": [
-    "1.md",
     "README.md",
+    "1.md",
     "learn_english",
     "2023.3.16.md",
     "kerberos认证.md",
