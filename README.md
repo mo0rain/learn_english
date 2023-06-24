@@ -25,7 +25,7 @@
 
 # Test
 
-```
+```bash
 C:\Windows\SysWOW64\curl.exe
 
 E:\tools\Git\mingw64\libexec\git-core\git-remote-https.exe
@@ -40,6 +40,11 @@ curl https://www.google.com.hk/
 
 sublime text查找中文字符
 [\x{4e00}-\x{9fa5}]
+
+
+git add . && git commit -m "update" && git push
+git commit -am "update" && git push
+
 
 
 ```
