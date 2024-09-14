@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ad228ecb23799aff",
+        "id": "cfe59fbabdb783c8",
         "type": "tabs",
         "children": [
           {
-            "id": "8941febea91e9c0d",
+            "id": "4e48543736e27808",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ee268aa4817c670",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
+                "file": "1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -92,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "1.md"
               }
             }
           }
@@ -110,10 +97,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8941febea91e9c0d",
+  "active": "4e48543736e27808",
   "lastOpenFiles": [
-    "1.md",
     "README.md",
+    "1.md",
     "learn_english",
     "2023.3.16.md",
     "kerberos认证.md",
